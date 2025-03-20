@@ -1,2 +1,1 @@
-Ligne initiale du fichier
-Modification depuis feature1
+Modification depuis feature1 et feature2
